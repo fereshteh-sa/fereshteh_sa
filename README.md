@@ -8,6 +8,6 @@ Welcome to my GitHub profile!
 
 ## 🔥 Contribution Graph
 
-![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=fereshteh-sa&theme=github)
-
+[![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=fereshteh-sa&theme=github)
+](https://docs.github.com/articles/why-are-my-contributions-not-showing-up-on-my-profile)
 
