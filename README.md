@@ -1,2 +1,4 @@
 👋 Hi there, I'm Fereshteh
-![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=YOUR_USERNAME&theme=github)
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
