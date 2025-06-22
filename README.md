@@ -8,5 +8,6 @@ Welcome to my GitHub profile!
 
 ## 🔥 Contribution Graph
 
-![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=fereshteh-sa&theme=github)
+![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=fereshteh-sa&theme=github)
+
 
