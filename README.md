@@ -11,9 +11,9 @@ Welcome to my GitHub profile!
 - Machine Learning for Public Health
 - Clinical Data Research & Visualization
 - Fair & Ethical AI in Healthcare
-📫 How to reach me:
-- 📧 Email: FereshtehSadeghiNaieniFard@my.unt.edu
-- 💼 [LinkedIn](https://www.linkedin.com/in/fereshteh-sadeghi-naieni-fard-097b21235/)
+📫 How to contact me:
+- 📧 Email: 
+- 💼 [LinkedIn](https://)
 - 🌐 [Personal Website](https://)
 
 🌱 I’m currently working on:
