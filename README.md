@@ -2,8 +2,8 @@
 
 Welcome to my GitHub profile!
 
-🎓 PhD Student in Information Science at the University of North Texas  
-📊 Health Data Scientist | GIS & Machine Learning Enthusiast  
+🎓 I am a PhD Student in Information Science at the University of North Texas  
+📊 I am also Health Data Scientist | GIS & Machine Learning Enthusiast  
 💡 I specialize in clinical research, cancer epidemiology, stroke vulnerability modeling, and AI for health.
 🔍 I'm passionate about:
 - Geospatial Health Analysis
@@ -16,14 +16,7 @@ Welcome to my GitHub profile!
 - 🌐 [Personal Website](https://)
 
 🌱 I’m currently working on:
-- Stroke risk modeling at the census tract level
-- Cancer prediction using demographic and environmental data
-- Publishing papers at the intersection of data science and health
-
-⚡ Fun fact: I love combining coding, health science, and maps to save lives!
-
-  
-
+- Cancer prediction using various types of risk factors
 
 ## 📊 My GitHub Stats
 
